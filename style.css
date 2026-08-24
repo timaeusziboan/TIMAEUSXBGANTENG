@@ -1,0 +1,25 @@
+body {
+    background-color:whitesmoke;
+    font-family: serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color:saddlebrown;
+    text-align: center;
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+p {
+  font-family: monospace;
+}
+
+
